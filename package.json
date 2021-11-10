@@ -1,0 +1,31 @@
+{
+  "name": "speech-to-text-demo",
+  "version": "1.0.0",
+  "description": "A speech to text demo.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "homepage": "/speech-to-text-demo",
+  "keywords": [
+    "react"
+  ],
+  "author": "Andrew Golightly <support@andrewgolightly.com> (http://www.golightlyplus.com)",
+  "devDependencies": {
+    "react-scripts": "^3.3.1"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.2",
+    "@mui/icons-material": "^5.1.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "speech-to-text": "^2.9.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
