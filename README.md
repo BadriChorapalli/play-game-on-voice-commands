@@ -2,9 +2,12 @@
 
 Download the code.
 
-#run 
+# run 
+
 npm install
+
 yarn install
+
 yarn start
 
 
